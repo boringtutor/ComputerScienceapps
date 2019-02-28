@@ -1,0 +1,10 @@
+plan for the game of fifteen:
+
+1. need 2d array for the board 
+2. need 2d array for the solved board.
+3. need location variable to keep track of the empty tile
+4. need to display board
+5. listener for the keystroke
+    -board functions to make moves
+6. function to solve the game
+7. a game over screen
