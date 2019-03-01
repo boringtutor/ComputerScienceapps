@@ -12,3 +12,6 @@ and run the python file by typing the command  `python main.py`
   -you can get the AI help to find the optimal Solution by Pressing SpaceBar 
  
  # Few Screen Shots of the Game
+![](Gameshot1.PNG)
+![](Gameshot2.PNG)
+![](Gameshot3.PNG)
