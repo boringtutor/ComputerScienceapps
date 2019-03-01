@@ -25,7 +25,7 @@ def on_release(key):
     elif key == keyboard.Key.down:
        b.board , b.e_loc = b.movedown(b.board,b.e_loc)
     elif key == keyboard.Key.space:
-        print('Thinking .... ')
+        print('The AI is Thinking .... ')
         moves = b.solve()
         for m in moves :
             b.moves[m](b.board,b.e_loc)

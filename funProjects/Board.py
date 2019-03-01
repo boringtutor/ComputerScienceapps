@@ -23,6 +23,10 @@ class Board:
 
     def __repr__(self):
         print('Welcome to the game of fifteen ...!!')
+        print('Press ARROW keys to play and ESC to exit game any time :)')
+        print('Enjoy the game..  :)')
+        print('Press SPACE BAR any time to get the sollution from the current position.')
+        print()
         for i in range(MAX_ROW):
             for j in range(MAX_COL):
                 print(self.board[i][j],end="")
